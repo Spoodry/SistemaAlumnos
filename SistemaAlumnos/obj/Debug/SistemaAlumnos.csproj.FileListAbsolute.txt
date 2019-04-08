@@ -1,0 +1,35 @@
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.exe.config
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.exe
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.pdb
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.exe
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.pdb
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.dll
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.dll
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.xml
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.xml
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csproj.CopyComplete
+C:\Users\Juan Pablo\source\repos\SistemaAlumnos\SistemaAlumnos\bin\Debug\Escuela.db
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\Escuela.db
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.exe.config
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.exe
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.pdb
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.dll
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.SqlServer.dll
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.dll
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.EF6.dll
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.Linq.dll
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.xml
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\EntityFramework.SqlServer.xml
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.xml
+F:\SistemaAlumnos\SistemaAlumnos\bin\Debug\System.Data.SQLite.dll.config
+F:\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csprojResolveAssemblyReference.cache
+F:\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csproj.CoreCompileInputs.cache
+F:\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.exe
+F:\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.pdb
